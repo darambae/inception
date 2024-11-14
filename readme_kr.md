@@ -33,7 +33,7 @@ Inception은 각각 NGINX, WordPress 및 MariaDB가 개별 컨테이너에서 �
 
 ```bash
 git clone https://github.com/yourusername/inception.git
-cd inception_public
+cd inception
 make
 ```
 
