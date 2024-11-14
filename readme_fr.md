@@ -33,7 +33,7 @@ Inception est un projet basé sur Docker où le but est de créer une infrastruc
 
 ```bash
 git clone https://github.com/yourusername/inception.git
-cd inception_public
+cd inception
 make
 ```
 
